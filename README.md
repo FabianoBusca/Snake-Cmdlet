@@ -34,7 +34,7 @@ Welcome to the SnakeCmdlet project! This project provides a custom cmdlet to pla
 
 ## Usage
 
-Follow the on-screen instructions to play the Snake game. Use the arrow keys to control the snake and collect food.
+Type `sn` on the Windows terminal to launch the game. Use the arrow keys to control the snake and collect food.
 
 ## Issue Reporting
 
