@@ -43,9 +43,3 @@ If you encounter any bugs or have ideas to enhance the project, please open a ne
 ## License
 
 This project is licensed under the [GNU General Public License v3.0] license - [read the license](LICENSE.md).
-
-## Contact
-
-For questions, suggestions, or any other communication, you can contact me at [fabiano.busca@gmail.com](fabiano.busca@gmail.com).
-
-Thank you for choosing the SnakeCmdlet project! Have fun playing the snake game directly from your Windows terminal!
