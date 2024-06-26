@@ -1,3 +1,5 @@
+![Preview Gif](Preview.gif)
+
 # SnakeCmdlet
 
 Welcome to the SnakeCmdlet project! This project provides a custom cmdlet to play the classic Snake game directly from your Windows terminal.
@@ -42,4 +44,4 @@ If you encounter any bugs or have ideas to enhance the project, please open a ne
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0] license - [read the license](LICENSE.md).
+This project is licensed under the [GNU General Public License v3.0 license](LICENSE).
